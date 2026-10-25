@@ -7,6 +7,9 @@ All notable changes to this project are documented here. The format follows
 
 ### Changed
 
+- Three functions start at the instruction the game enters them at, not two to six bytes before it:
+  the leading instructions moved into each function, the naming ledger and the census carry the
+  moved starts, and the three superseded start names are retired from the assembly tree.
 - The two data-refusal tests in `tools/behaviour/test_harness.py` assert the refusal the harness
   actually raises: they read the flagged start from `tools/research/FUNCTION_ENTRY_ALLOW.csv` instead
   of naming an address the census no longer carries, and the second one proves the refusal comes

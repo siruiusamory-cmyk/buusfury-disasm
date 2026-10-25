@@ -1,10 +1,13 @@
 address,kind,limb,flags,entry,reason
+0x08000c9a,unreferenced,,data,0x08000c9c,prefix
 0x080010f2,unreferenced,,undecodable,-,entry
 0x08007456,unreferenced,,clobber,-,entry
+0x08008086,unreferenced,,data,0x0800808a,prefix
 0x0800a78e,unreferenced,,undecodable,-,entry
 0x0800b32a,unreferenced,,data,0x0800b32e,prefix
 0x0800c276,unreferenced,,undecodable,-,entry
 0x0800c59a,unreferenced,,clobber,-,entry
+0x08011162,unreferenced,,data,0x08011168,prefix
 0x08011da6,unreferenced,,clobber,-,entry
 0x0801360e,unreferenced,,clobber,-,entry
 0x0801ecbe,unreferenced,,undecodable,-,split

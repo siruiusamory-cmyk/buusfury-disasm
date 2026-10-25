@@ -9,7 +9,7 @@
 0x662,1210,t,code_158_143F2_000662,b,t,p,1176
 0xb40,320,t,code_158_143F2_000B40,b,t,p,320
 0xc80,26,t,thumb_body_000C80,s,t,p,26
-0xc9c,102,t,code_158_143F2_000C9A,b,t,p,102
+0xc9a,104,t,code_158_143F2_000C9A,b,t,p,104
 0xd02,8,t,thumb_body_000D02,s,t,p,8
 0xd0a,998,t,code_158_143F2_000D0A,b,t,p,974
 0x10f2,10,t,code_158_143F2_0010F2,b,t,p,10
@@ -200,7 +200,7 @@
 0x7ccc,144,t,thumb_body_007CCC,s,t,p,144
 0x7d62,736,t,code_158_143F2_007D62,b,t,p,706
 0x8042,68,t,thumb_body_008042,s,t,p,68
-0x808a,10,t,code_158_143F2_008086,b,t,p,10
+0x8086,14,t,code_158_143F2_008086,b,t,p,14
 0x8096,66,t,code_158_143F2_008096,b,t,p,66
 0x80d8,156,t,thumb_body_0080D8,s,t,p,156
 0x8174,110,t,code_158_143F2_008174,b,t,p,110
@@ -529,7 +529,7 @@
 0x110fa,34,t,thumb_entry_0110FA,s,t,p,34
 0x1111c,32,t,code_158_143F2_01111C,b,t,p,32
 0x1113c,38,t,thumb_entry_01113C,s,t,p,38
-0x11168,38,t,code_158_143F2_011162,b,t,p,38
+0x11162,44,t,code_158_143F2_011162,b,t,p,44
 0x1118e,4,t,thumb_entry_01118E,s,t,p,4
 0x11192,62,t,code_158_143F2_011192,b,t,p,62
 0x111d0,44,t,thumb_entry_0111D0,s,t,p,44

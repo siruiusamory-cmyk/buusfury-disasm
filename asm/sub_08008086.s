@@ -1,5 +1,7 @@
 	CODE16
-|sub_0800808A|
+|sub_08008086|
+	ADD      r2, r1, #0
+	ADD      r1, r0, #0
 	PUSH     {r3, lr}
 	MOV      r0, #0
 	BL       |loc_08007B78|

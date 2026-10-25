@@ -36,6 +36,3 @@
 		STR r0, [r2]
 		MOV r0, #1
 		B        |inc_0x0158_0x143f2| + 0x7ee4
-|sub_08008086|
-	DCW      0x1c0a
-	DCW      0x1c01

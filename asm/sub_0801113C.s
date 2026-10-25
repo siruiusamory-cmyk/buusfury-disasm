@@ -18,7 +18,3 @@
 		BL       |inc_0x0158_0x143f2| + 0xa7e4
 		ADD r0, r4, #0
 		B        |inc_0x0158_0x143f2| + 0x10fe0
-|sub_08011162|
-	DCW      0x4a26
-	DCW      0x0089
-	DCW      0x3208

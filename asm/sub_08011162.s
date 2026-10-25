@@ -1,5 +1,8 @@
 	CODE16
-|sub_08011168|
+|sub_08011162|
+	LDR      r2, [pc, #0x98]
+	LSL      r1, r1, #2
+	ADD      r2, #8
 	PUSH     {r3, lr}
 	LDR      r1, [r2, r1]
 	BL       |loc_0800ED18|

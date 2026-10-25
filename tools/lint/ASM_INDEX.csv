@@ -11,7 +11,7 @@ address,kind,symbol,file
 0x08000662,unreferenced,sub_08000662,asm/sub_08000662.s
 0x08000B40,unreferenced,sub_08000B40,asm/sub_08000B40.s
 0x08000C80,unreferenced,sub_08000C80,asm/sub_08000C80.s
-0x08000C9C,start,sub_08000C9C,asm/sub_08000C9C.s
+0x08000C9A,start,sub_08000C9A,asm/sub_08000C9A.s
 0x08000D02,unreferenced,sub_08000D02,asm/sub_08000D02.s
 0x08000D0A,start,sub_08000D0A,asm/sub_08000D0A.s
 0x080010F2,unreferenced,,asm/sub_08000D0A.s
@@ -238,7 +238,7 @@ address,kind,symbol,file
 0x08007D62,unreferenced,,asm/sub_08007CCC.s
 0x08007D98,start,loc_08007D98,asm/loc_08007D98.s
 0x08008042,unreferenced,sub_08008042,asm/sub_08008042.s
-0x0800808A,start,sub_0800808A,asm/sub_0800808A.s
+0x08008086,start,sub_08008086,asm/sub_08008086.s
 0x08008096,unreferenced,sub_08008096,asm/sub_08008096.s
 0x080080C0,start,loc_080080C0,asm/loc_080080C0.s
 0x080080D8,unreferenced,Irq_WriteEnable1,asm/Irq_WriteEnable1.s
@@ -651,7 +651,7 @@ address,kind,symbol,file
 0x080110FA,unreferenced,sub_080110FA,asm/sub_080110FA.s
 0x0801111C,start,sub_0801111C,asm/sub_0801111C.s
 0x0801113C,unreferenced,sub_0801113C,asm/sub_0801113C.s
-0x08011168,start,sub_08011168,asm/sub_08011168.s
+0x08011162,start,sub_08011162,asm/sub_08011162.s
 0x0801118E,unreferenced,sub_0801118E,asm/sub_0801118E.s
 0x08011192,start,sub_08011192,asm/sub_08011192.s
 0x080111D0,unreferenced,sub_080111D0,asm/sub_080111D0.s

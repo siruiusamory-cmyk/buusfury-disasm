@@ -1,7 +1,7 @@
 [counts]
 functions = 3371
-code_bytes = 303178
-entries = 4764
+code_bytes = 303190
+entries = 4767
 jump_tables = 2
 code_copies = 1
 iwram_bytes = 32768
@@ -118,10 +118,10 @@ size = 26
 name = "sub_08000C80"
 
 [[code]]
-addr = 0x08000c9c
+addr = 0x08000c9a
 mode = "thumb"
-size = 102
-name = "sub_08000C9C"
+size = 104
+name = "sub_08000C9A"
 
 [[code]]
 addr = 0x08000d02
@@ -1394,10 +1394,10 @@ size = 68
 name = "sub_08008042"
 
 [[code]]
-addr = 0x0800808a
+addr = 0x08008086
 mode = "thumb"
-size = 10
-name = "sub_0800808A"
+size = 14
+name = "sub_08008086"
 
 [[code]]
 addr = 0x08008094
@@ -3429,10 +3429,10 @@ size = 38
 name = "sub_0801113C"
 
 [[code]]
-addr = 0x08011168
+addr = 0x08011162
 mode = "thumb"
-size = 38
-name = "sub_08011168"
+size = 44
+name = "sub_08011162"
 
 [[code]]
 addr = 0x0801118e
@@ -19464,6 +19464,10 @@ addr = 0x08000c4e
 mode = "thumb"
 
 [[entry]]
+addr = 0x08000c9c
+mode = "thumb"
+
+[[entry]]
 addr = 0x08000ca6
 mode = "thumb"
 
@@ -22308,6 +22312,10 @@ mode = "thumb"
 
 [[entry]]
 addr = 0x0800804e
+mode = "thumb"
+
+[[entry]]
+addr = 0x0800808a
 mode = "thumb"
 
 [[entry]]
@@ -25201,6 +25209,10 @@ mode = "thumb"
 
 [[entry]]
 addr = 0x080110ce
+mode = "thumb"
+
+[[entry]]
+addr = 0x08011168
 mode = "thumb"
 
 [[entry]]

@@ -40,6 +40,8 @@ readability step, and `tools/lint/lints.py` holds the count to a measured baseli
 `tools/lint/NAMING_LEDGER.csv` as the record of every promotion; `tools/research/name_evidence.py
 --mode audit` checks every row's evidence against your own copy of the image. No part of the code is
 claimed to match the original compiler's C output.
+Every function begins at the instruction the game enters it at, so the function list doubles as
+a list of the game's real entry points.
 
 The progress figure below measures how much of the ROM the build produces from tracked source. It
 does not measure how much of the code has been turned into C.

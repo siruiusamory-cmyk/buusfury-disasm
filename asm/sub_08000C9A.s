@@ -1,5 +1,6 @@
 	CODE16
-|sub_08000C9C|
+|sub_08000C9A|
+	LDR      r0, [pc, #0x168]
 	PUSH     {r3, lr}
 	LDR      r0, [r0, #0x1c]
 	BL       |inc_0x153f2_0x1a3f2| + 0x3f56
