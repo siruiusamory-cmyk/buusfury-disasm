@@ -5,6 +5,14 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Added
+
+- `docs/DIALOGUE_PRESENTATION.md` records the dialogue text, font, box and portrait path: the exact
+  offsets, the evidence class of every figure, and what is not established.
+  `tools/research/dialogue_presentation.py` re-derives the font population, both layout records,
+  the two box container extents and the portrait pointer array from the retail image, and
+  `tools/research/test_dialogue_presentation.py` covers its refusals.
+
 ### Changed
 
 - Three functions start at the instruction the game enters them at, not two to six bytes before it:

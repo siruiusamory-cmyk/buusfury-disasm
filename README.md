@@ -56,6 +56,10 @@ and [docs/DEFINITION_OF_DONE.md](docs/DEFINITION_OF_DONE.md) says what counts as
 Of what remains, 3.9214 % is identified binary (328,954 B): bytes whose purpose is known but which
 still have no reader that rebuilds them.
 
+One subsystem is written up end to end: [docs/DIALOGUE_PRESENTATION.md](docs/DIALOGUE_PRESENTATION.md)
+records the dialogue text, font, box and portrait path, and
+`python tools\research\dialogue_presentation.py` re-derives its figures from your own image.
+
 ## Building
 
 The build runs on Windows. You need ARM Developer Suite 1.2, Python 3.12 with `pytest` and
