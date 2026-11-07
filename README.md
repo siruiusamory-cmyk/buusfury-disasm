@@ -59,6 +59,7 @@ still have no reader that rebuilds them.
 One subsystem is written up end to end: [docs/DIALOGUE_PRESENTATION.md](docs/DIALOGUE_PRESENTATION.md)
 records the dialogue text, font, box and portrait path, and
 `python tools\research\dialogue_presentation.py` re-derives its figures from your own image.
+`python tools\check_links.py` resolves each linked path against the files on disk, name for name.
 
 ## Building
 

@@ -5,6 +5,13 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Fixed
+
+- The dialogue page linked a file that is not tracked: the box constructor is
+  `asm/loc_0801227E.s` and the page named `asm/sub_0801227E.s`, a different name rather than a
+  different case. `python tools\check_links.py` compares names exactly on every platform; it had
+  not been run before the first push.
+
 ### Added
 
 - `docs/DIALOGUE_PRESENTATION.md` records the dialogue text, font, box and portrait path: the exact

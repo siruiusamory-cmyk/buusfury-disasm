@@ -35,7 +35,7 @@ written for that backport is new source in the other repository, not a copy of a
 | one-glyph wrapper, line fitter | [`asm/sub_0803DE50.s`](../asm/sub_0803DE50.s), [`asm/sub_0803DEA6.s`](../asm/sub_0803DEA6.s) |
 | layout/pen consumer | [`asm/sub_0800AED0.s`](../asm/sub_0800AED0.s) |
 | per-glyph compose, text-object constructor | [`asm/sub_0800B1A6.s`](../asm/sub_0800B1A6.s) |
-| dialogue box constructor, portrait operand | [`asm/sub_0801227E.s`](../asm/sub_0801227E.s) |
+| dialogue box constructor, portrait operand | [`asm/loc_0801227E.s`](../asm/loc_0801227E.s) |
 | the two box surfaces (160x64, kind-1 containers) | [`tools/assets/generate_assets.py`](../tools/assets/generate_assets.py) rows `asset_dialogbox`, `asset_dialogbox_small` |
 | portrait pointer array (the 652-byte endrom family) | [`tools/mapcontainer/endrombank.py`](../tools/mapcontainer/endrombank.py) |
 | container codec used to decode portraits | [`tools/webfoot/webfoot_lz.py`](../tools/webfoot/webfoot_lz.py) |
