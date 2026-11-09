@@ -65,3 +65,6 @@ file find each other.
 | [RAM_LEDGER.csv](RAM_LEDGER.csv) | the RAM addresses the tree has named, and the evidence for each |
 | [DEFINITION_OF_DONE.md](DEFINITION_OF_DONE.md) | what counts as source and what the finish line is |
 | [../CONTRIBUTING.md](../CONTRIBUTING.md) | formatting, the pre-commit hook and converting a unit to C |
+
+Player melee dispatch, ki-ball lifetime and effect evidence are recorded in
+[COMBAT_RUNTIME.md](COMBAT_RUNTIME.md).

@@ -107,3 +107,6 @@ No ROM, BIOS or extracted game data is included. You need your own legally obtai
 game. Not affiliated with pret, Nintendo, Atari, Bandai or Webfoot Technologies.
 
 MPL-2.0, see [LICENSE](LICENSE).
+
+Original player combat and sprite access findings, with evidence limits, are in
+[docs/COMBAT_RUNTIME.md](docs/COMBAT_RUNTIME.md).

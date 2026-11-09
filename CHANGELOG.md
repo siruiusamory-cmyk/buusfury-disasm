@@ -14,6 +14,9 @@ All notable changes to this project are documented here. The format follows
 
 ### Added
 
+- Original player combat and sprite runtime findings, including corrected
+  dispatch, collision, animation and effect interpretations; no retail bytes change.
+
 - `docs/DIALOGUE_PRESENTATION.md` records the dialogue text, font, box and portrait path: the exact
   offsets, the evidence class of every figure, and what is not established.
   `tools/research/dialogue_presentation.py` re-derives the font population, both layout records,
